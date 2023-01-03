@@ -1,16 +1,20 @@
 ### Hi there 👋
+<p align="left">
+<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20CADEN&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
+</p> 
 
-<!--
-**winnietthepooh/winnietthepooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Know
+<p align="left">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rust">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go">
 
-Here are some ideas to get you started:
+## Editors
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jetbrains">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=VisualStudioCode">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=neovim">
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other Things
+
+![winnietthepooh's github stats](https://github-readme-stats.vercel.app/api?username=winnietthepooh&show_icons=true&theme=dracula)
