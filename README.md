@@ -9,12 +9,6 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go">
 
-## Editors
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jetbrains">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=VisualStudioCode">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=neovim">
-</p> 
-
 ### Other Things
 
 ![winnietthepooh's github stats](https://github-readme-stats.vercel.app/api?username=winnietthepooh&show_icons=true&theme=dracula)
