@@ -1,31 +1,3 @@
-ProfileMe.dev
-
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-Go home
-© 2023 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-Previous section
-buymeacoffee
-BUY ME A COFFEE:
-yourname
-kofi
-BUY ME A COFFEE:
-yourname
-Previous section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Caden Rothzeid
 ===============================
 
@@ -60,5 +32,3 @@ Hi 👋 My name is Caden Rothzeid
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/winnietthepooh/skyblockAuctions" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=winnietthepooh&repo=skyblockAuctions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
